@@ -1,1 +1,1 @@
-Changed after bug label.
+Changed after bug label removed first time.
