@@ -1,9 +1,3 @@
 # git-experiments
 HELLO WORLD!
 
-
-
-
-
-
-
